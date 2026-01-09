@@ -1,0 +1,19 @@
+{
+    "identifier": "io.github.yannnovak.sn-ambitopia-red-theme",
+    "name": "Ambitopia [red]",
+    "content_type": "SN|Theme",
+    "area": "themes",
+    "version": "1.0.0",
+    "description": "A Dark Theme for Standard Notes.",
+    "url": "https://cdn.jsdelivr.net/gh/yannnovak/sn-ambitopia-red-theme@1.0.0/dist/dist.css",
+    "latest_url": "https://cdn.jsdelivr.net/gh/yannnovak/sn-ambitopia-red-theme@main/ext.json",
+    "download_url": "https://github.com/yannnovak/sn-ambitopia-red-theme/archive/1.0.0.zip",
+    "marketing_url": "https://github.com/yannnovak/sn-ambitopia-red-theme",
+    "dock_icon": {
+        "type": "circle",
+        "background_color": "#f22613",
+        "foreground_color": "#f22613",
+        "border_color": "#000000"
+    },
+    "statusBar": "dark-content"
+}

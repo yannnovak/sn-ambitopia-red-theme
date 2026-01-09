@@ -1,0 +1,12 @@
+{
+    "name": "sn-ambitopia-red-theme",
+    "version": "1.0.0",
+    "main": "dist/dist.css",
+    "sn": {
+        "main": "dist/dist.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yannnovak/sn-ambitopia-red-theme.git"
+    }
+}
